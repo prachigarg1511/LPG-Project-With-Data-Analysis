@@ -1,0 +1,11 @@
+streamlit==1.32.2
+pandas==2.2.2
+numpy==1.26.4
+plotly==5.22.0
+requests==2.32.3
+beautifulsoup4==4.12.3
+lxml==5.2.2
+geopandas==0.14.4
+shapely==2.0.4
+statsmodels==0.14.2
+pyarrow==16.1.0
